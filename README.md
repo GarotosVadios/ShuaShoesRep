@@ -29,8 +29,40 @@ sudo systemctl start postgresql
 
 sudo systemctl status postgresql
 
-sudo -i -u postgres
 
+```
+
+### 2. Entrar no PostgreSQL
+```bash
+sudo -i -u postgres
+```
+### 3. Entrar no prompt do post
+```bash
 psql
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
